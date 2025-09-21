@@ -27,5 +27,6 @@ Analyze customer shopping behavior to identify spending patterns, seasonal trend
 - Report & screenshot of visuals
 
 ## 🔗 Dashboard Preview
+- check the interactive report here https://app.powerbi.com/links/f7qr4Cf-z5?ctid=793c631a-ae1b-4784-8343-3869bc61da06&pbi_source=linkShare
 - <img width="1352" height="731" alt="shopping behavior analysis" src="https://github.com/user-attachments/assets/12c381c8-4ff5-4c46-a6b5-4f806686a5e2" />
 
